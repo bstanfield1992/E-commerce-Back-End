@@ -29,7 +29,7 @@ This application is covered by the MIT license.
 ## Contributions
 Ben Stanfield
 ## Tests
-Jest
+
 ## Questions
 Email for any questions<br />
 <br />
